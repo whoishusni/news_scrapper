@@ -3,4 +3,4 @@ News Scrapper Trending in Indonesia (Detik, Kumparan, Tempo, Kompas, Antara)
 
 ## Library
 - Requests
-- Beatifulsoup
+- Beautifulsoup
